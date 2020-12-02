@@ -1,2 +1,2 @@
-# intelliJ
-IntelliJ Trainning
+# Trainning with book
+building-microservices-with-go Trainning
